@@ -38,7 +38,7 @@ Before you begin, ensure you have the following installed:
 ## Project Structure
 
 ```
-literature-surveyor/
+vernacular_language_translator/
 ├── backend/
 │   ├── app.py                 # FastAPI application entry point
 │   ├── api_services.py        # API route handlers
@@ -73,8 +73,8 @@ literature-surveyor/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Sujaanb/literature-surveyor.git
-cd literature-surveyor
+git clone https://github.com/Sujaanb/vernacular_language_translator.git
+cd vernacular_language_translator
 ```
 
 2. **Navigate to the backend directory**
